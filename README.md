@@ -82,7 +82,7 @@ main.cpp currently checks behavior such as:
 
 ## Screenshot
 
-![Program Output] (<img width="347" height="989" alt="Screenshot 2026-05-13 at 22 24 51" src="https://github.com/user-attachments/assets/f66e942b-5fa0-4560-9ace-c664791f8ba3" />)
+(<img width="347" height="989" alt="Screenshot 2026-05-13 at 22 24 51" src="https://github.com/user-attachments/assets/f66e942b-5fa0-4560-9ace-c664791f8ba3" />)
 
 ## Notes
 
