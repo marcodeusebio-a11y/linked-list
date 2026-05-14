@@ -52,11 +52,11 @@ This project practices:
   
 ## Files
 
-`main.cpp` — runs validation tests for both linked lists
-`LinkedList.h` - singly linked list interface
-`LinkedList.cpp` — singly linked list implementation
-`DoublyLinkedList.h` - doubly linked list interface
-`DoublyLinkedList.cpp` — doubly linked list implementation
+- `main.cpp` — runs validation tests for both linked lists
+- `LinkedList.h` — singly linked list interface
+- `LinkedList.cpp` — singly linked list implementation
+- `DoublyLinkedList.h` — doubly linked list interface
+- `DoublyLinkedList.cpp` — doubly linked list implementation
   
 ## Build and run
 
