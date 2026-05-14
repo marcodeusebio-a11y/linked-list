@@ -14,8 +14,7 @@ It includes:
 
 ## Features
 
-Singly linked list (LinkedList)
-The singly linked list supports:
+The singly linked list (LinkedList) supports:
 
 - append and prepend
 - indexed access with get
@@ -33,8 +32,7 @@ The singly linked list supports:
 - reverse the list recursively
 - print in reverse order
 
-Doubly linked list (DoublyLinkedList)
-The doubly linked list supports:
+The doubly linked list (DoublyLinkedList) supports:
 
 - append and prepend
 - remove by value
@@ -78,13 +76,13 @@ main.cpp currently checks behavior such as:
 - Build and run the project.
 - Check the console output.
 
-### When the tests pass, the program prints:
-All tests passed
+ When the tests pass, the program prints:
+ 
+- All tests passed
 
 ## Screenshot
 
-
-![Program Output](<img width="347" height="989" alt="Screenshot 2026-05-13 at 22 24 51" src="https://github.com/user-attachments/assets/f66e942b-5fa0-4560-9ace-c664791f8ba3" />)
+![Program Output] <img width="347" height="989" alt="Screenshot 2026-05-13 at 22 24 51" src="https://github.com/user-attachments/assets/f66e942b-5fa0-4560-9ace-c664791f8ba3"
 
 ## Notes
 
