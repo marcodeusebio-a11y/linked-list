@@ -14,7 +14,7 @@ It includes:
 
 ## Features
 
-The singly linked list (LinkedList) supports:
+***LinkedList*** | The singly linked list supports:
 
 - append and prepend
 - indexed access with get
@@ -32,7 +32,7 @@ The singly linked list (LinkedList) supports:
 - reverse the list recursively
 - print in reverse order
 
-The doubly linked list (DoublyLinkedList) supports:
+***DoublyLinkedList*** | The doubly linked list supports:
 
 - append and prepend
 - remove by value
@@ -52,13 +52,20 @@ This project practices:
   
 ## Files
 
-main.cpp — runs validation tests for both list implementations
-LinkedList.h / LinkedList.cpp — singly linked list implementation
-DoublyLinkedList.h / DoublyLinkedList.cpp — doubly linked list implementation
+`main.cpp` — runs validation tests for both linked lists
+`LinkedList.h` - singly linked list interface
+`LinkedList.cpp` — singly linked list implementation
+`DoublyLinkedList.h` - doubly linked list interface
+`DoublyLinkedList.cpp` — doubly linked list implementation
+  
+## Build and run
 
-## Example test coverage
+- Open the project in Xcode.
+- Select the active scheme.
+- Build and run the project.
+- Check the console output.
 
-main.cpp currently checks behavior such as:
+`main.cpp` currently checks behavior such as:
 
 - appending and prepending nodes
 - retrieving and updating values
@@ -68,24 +75,18 @@ main.cpp currently checks behavior such as:
 - reversing the list in multiple ways
 - appending a list to itself without creating an infinite loop
 - basic doubly linked list append/prepend/remove behavior
-  
+
+ When the tests pass, the program prints:
+```
+All tests passed
+```
+
 ## Notes
 
 This project is intended as a foundational C++ data structures exercise 
 and emphasizes correctness, memory cleanup, and basic linked list 
 operations implemented without using the STL list containers.
 
-## Build and run
-
-- Open the project in Xcode.
-- Select the active scheme.
-- Build and run the project.
-- Check the console output.
-
- When the tests pass, the program prints:
-```
-All tests passed
-```
 ## Screenshot
 
 <img width="347" height="989" alt="Screenshot 2026-05-13 at 22 24 51" src="https://github.com/user-attachments/assets/f66e942b-5fa0-4560-9ace-c664791f8ba3" />
