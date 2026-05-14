@@ -17,9 +17,7 @@ LinkedList::LinkedList(const LinkedList& rhs) : head(nullptr) {
     Node_1* tail = nullptr;
 
     while (p != nullptr) {
-        Node_1* newNode = new Node_1;
-        newNode->data = p->data;
-        newNode->next = nullptr;
+        Node_1* newNode = new Node_1(p->data);
         
         if (head == nullptr) {
             head = newNode;
