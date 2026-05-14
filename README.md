@@ -69,6 +69,12 @@ main.cpp currently checks behavior such as:
 - appending a list to itself without creating an infinite loop
 - basic doubly linked list append/prepend/remove behavior
   
+## Notes
+
+This project is intended as a foundational C++ data structures exercise 
+and emphasizes correctness, memory cleanup, and basic linked list 
+operations implemented without using the STL list containers.
+
 ## Build and run
 
 - Open the project in Xcode.
@@ -77,15 +83,11 @@ main.cpp currently checks behavior such as:
 - Check the console output.
 
  When the tests pass, the program prints:
- 
-- All tests passed
-
+```
+All tests passed
+```
 ## Screenshot
 
 <img width="347" height="989" alt="Screenshot 2026-05-13 at 22 24 51" src="https://github.com/user-attachments/assets/f66e942b-5fa0-4560-9ace-c664791f8ba3" />
 
-## Notes
 
-This project is intended as a foundational C++ data structures exercise 
-and emphasizes correctness, memory cleanup, and basic linked list 
-operations implemented without using the STL list containers.
