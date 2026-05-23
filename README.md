@@ -90,7 +90,7 @@ LinkedListProject/
 
 ## Main Classes
 
-### ***LinkedList***
+### LinkedList
 
 The LinkedList class is a singly linked list that stores typedef values.
 
@@ -112,7 +112,7 @@ Because the list dynamically allocates nodes, it includes:
 
 These functions help prevent memory leaks and make copied lists independent from each other.
 
-### ***DoublyLinkedList***
+### DoublyLinkedList
 
 The DoublyLinkedList class stores typedef values using nodes that point both forward and backward.
 
